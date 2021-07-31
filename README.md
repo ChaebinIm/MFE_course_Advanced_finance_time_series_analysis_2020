@@ -12,4 +12,4 @@
 ### 5. Final
 
 ###### I think you can easily know that these are the homeworks and final exam of this lecture. Yeah, It's right.
-###### In each contents, you can easily find that there is a word file that is the definition of the homework(or exam), and there is a jupyter jupyter notebook file(.ipynb) or matlab file(.m) as an answer of the problem. You can refer it easily.
+###### In each contents, you can easily find that there is a word file that is the definition of the homework(or exam), and there is a jupyter notebook file(.ipynb) or matlab file(.m) as an answer of the problem. You can refer it easily.
